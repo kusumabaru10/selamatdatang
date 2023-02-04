@@ -21,7 +21,7 @@
                     <li><a href="">facebook</a></li>
                     <li><a href="">website</a></li>
                     <li><a href="">jb kusuma</a></li>   
-                    <p>wame <a href="https://wa.me/083869322352">klik disini</a></p>
+                    <p>wame <a href="https://wa.me/+6283869322352">klik disini</a></p>
                     <label>JB KUSUMABARU10
                         menyediakan berbagai jualbeli barang maupun game
                     </label>
