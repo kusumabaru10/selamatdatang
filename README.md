@@ -14,8 +14,11 @@
         <div class="sidebar">
             <nav>
                 <ul>
-                    <li><a href="">About</a></li>
-                    <li><a href="">Portofolio</a></li>
-                    <li><a href="">Blog</a></li>
-                    <li><a href="">Contact</a></li>   
-                    <p>githubme <a href="https://github.com/kusumabaru10">klik disini</a></p>
+                    <li><a href="">wa</a></li>
+                    <li><a href="">facebook</a></li>
+                    <li><a href="">website</a></li>
+                    <li><a href="">jb kusuma</a></li>   
+                    <p>wame <a href="https://wa.me/083869322352">klik disini</a></p>
+                    <label>JB KUSUMABARU10
+                        menyediakan berbagai jualbeli barang maupun game
+                    </label>
